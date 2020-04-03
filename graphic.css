@@ -6,3 +6,10 @@ body
     background-color : green;
     padding-top : 15%;
 }
+
+textarea
+{
+    margin: 3rem;
+    width: 80%;
+    height: auto;
+}
